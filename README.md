@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Anjie-MF/qrCode_figmaChallenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages]( https://anjie-mf.github.io/qrCode_figmaChallenge/)
 
 ## My process
 
